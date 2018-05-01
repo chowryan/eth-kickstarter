@@ -1,0 +1,8 @@
+'use strict';
+
+module.exports = {
+  MNEMONIC_PASSWORD: 'parade salt crew flavor off chief dry door mad proud expect father',
+  PROVIDER_URI: 'https://rinkeby.infura.io/QJRxVO2bUUJTLKM7t6wn',
+  CAMPAIGN_FACTORY_ADDRESS: '0xA1E74236C176f0c3A6566546Cca1f1588ff52f63'
+};
+//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbImNvbmZpZy9jb25maWcuanMiXSwibmFtZXMiOlsibW9kdWxlIiwiZXhwb3J0cyIsIk1ORU1PTklDX1BBU1NXT1JEIiwiUFJPVklERVJfVVJJIiwiQ0FNUEFJR05fRkFDVE9SWV9BRERSRVNTIl0sIm1hcHBpbmdzIjoiOztBQUFBLE9BQUEsQUFBTztxQkFBVSxBQUNJLEFBQ25CO2dCQUZlLEFBRUQsQUFDZDs0QkFIRixBQUFpQixBQUdXO0FBSFgsQUFDZiIsImZpbGUiOiJjb25maWcuanMiLCJzb3VyY2VSb290IjoiL1VzZXJzL3J5YW5jaG93L0NvZGUvZXRoLWtpY2tzdGFydGVyIn0=
